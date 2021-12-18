@@ -1,19 +1,19 @@
 
 import React from 'react';
+import { BrowserRouter as Router } from 'react-router-dom';
 import 'react-toastify/dist/ReactToastify.css';
-import { BrowserRouter } from 'react-router-dom';
 import AuthProvider from './contexts/auth';
 import Routes from './routes';
 import { ToastContainer } from 'react-toastify';
 
 function App() {
   return (
-    <AuthProvider>
-      <BrowserRouter>
+    <Router>
+      <AuthProvider>
         <ToastContainer autoClose={3000} />
-        <Routes/>
-      </BrowserRouter>
-    </AuthProvider>
+        <Routes />
+      </AuthProvider>
+    </Router>
   );
 }
 
