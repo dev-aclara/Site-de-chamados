@@ -1,6 +1,8 @@
 import React from 'react';
 import { useContext } from 'react';
 
+import Header from '../../Components/Header';
+
 import { AuthContext } from '../../contexts/auth';
 
 export default function Dashboard(){
@@ -8,8 +10,8 @@ export default function Dashboard(){
 
   return(
     <div>
+      <Header/>
       <h1>PAGINA DASHBOARD</h1>
-      <button onClick={ () => signOut() }>Fazer logout</button>
     </div>
   )
 }

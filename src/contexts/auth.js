@@ -51,7 +51,7 @@ function AuthProvider({ children }){
       setUser(data);
       storageUser(data);
       setLoadingAuth(false);
-      toast.success('Bem vindo de volta!');
+      toast.success('Bem vindo(a)!');
 
 
     })
@@ -90,7 +90,7 @@ function AuthProvider({ children }){
         setUser(data);
         storageUser(data);
         setLoadingAuth(false);
-        toast.success('Bem vindo a plataforma!');
+        toast.success('Bem vindo(a) à plataforma!');
 
       })
 
