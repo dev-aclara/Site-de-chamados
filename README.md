@@ -31,11 +31,17 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/dev-aclara/Site-de-chamados
 
+# entrar na pasta do projeto 
+cd sistema-chamados
+
 # instalar dependências
-npm install
+yarn install ou npm install
 
 # executar o projeto
-npm start
+yarn start ou npm start
+
+# modo de acesso no navegador
+acesse http://localhost:3000
 ```
 
 ## 👩‍💻 Autora
