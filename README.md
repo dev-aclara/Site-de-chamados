@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Projeto realizado no curso React Js do zero ao avançado na pratica realizado pelo instrutor Matheus Fraga na plataforma Udemy
+## 💻 _Sistema de Chamados_
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dev-aclara/Site-de-chamados/blob/main/LICENSE)
 
-## Available Scripts
+O sistema de chamados é uma aplicação WEB desenvolvida em React JS, que é o foco principal do curso. Na parte de autenticação (cadastro, usuário e login e as demais informações de um banco) foi utilizada a plataforma Firebase.
 
-In the project directory, you can run:
+## 🎨 Layout
 
-### `npm start`
+**Web**
+![01-site](https://user-images.githubusercontent.com/57874018/147023678-251aec0c-1cf0-4a5f-b92a-bc08478e70fd.png)
+![02-site](https://user-images.githubusercontent.com/57874018/147023681-d3fc10ea-1e3a-4e62-9f56-d4d8e8974e69.png)
+![03-site](https://user-images.githubusercontent.com/57874018/147023687-03e697b7-e0a8-469c-a5b4-e42c37980da6.png)
+![04-site](https://user-images.githubusercontent.com/57874018/147023688-36b21d4e-a846-4ecd-850e-f2ba9357c19e.png)
+![07-site](https://user-images.githubusercontent.com/57874018/147023855-fa206aea-1518-4f3a-ad97-818e476378f3.png)
+![05-site](https://user-images.githubusercontent.com/57874018/147023704-fec64c9c-fec9-4342-8cf0-d945267f1da4.png)
+![06-site](https://user-images.githubusercontent.com/57874018/147023714-55b8b573-e8b7-46da-a63e-a1bf5a2a385d.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Responsivo**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![01-mobile](https://user-images.githubusercontent.com/57874018/147024196-41dba37d-bc12-49e2-9cd2-d570bcb78fee.png)
+![02-mobile](https://user-images.githubusercontent.com/57874018/147024205-92b7fd06-6223-4beb-b8fe-f7e434a11eea.png)
+![03-mobile](https://user-images.githubusercontent.com/57874018/147024220-38317269-348b-4103-9ce5-a494c6be7ce3.png)
+![04-mobile](https://user-images.githubusercontent.com/57874018/147024238-13aa7516-37ea-4ca1-bf6a-366461c39899.png)
 
-### `npm test`
+## ❓ Como executar o projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Pré-requisitos: npm / yarn
 
-### `npm run build`
+```
+# clonar repositório
+git clone https://github.com/dev-aclara/Site-de-chamados
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# instalar dependências
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# executar o projeto
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 👩‍💻 Autora
 
-### `npm run eject`
+Ana Clara Mansano Pereira, estudante de Ciência da Computação UNIFAI - Adamantina, São Paulo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ana-clara-mansano-5051011ab/)
+&nbsp;
